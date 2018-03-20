@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "879299964975",
+    "firebase_url": "https://fakemessages-23f4d.firebaseio.com",
+    "project_id": "fakemessages-23f4d",
+    "storage_bucket": "fakemessages-23f4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879299964975:android:3cd74bdb208417ae",
+        "android_client_info": {
+          "package_name": "com.philsteffen.fakemessages.fakemessages"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "879299964975-tm4s6vjf150ctd2q4mgd8a0ou1sejf3a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.philsteffen.fakemessages.fakemessages",
+            "certificate_hash": "bd2fa6e970c86df58923fe875459f78fd512294f"
+          }
+        },
+        {
+          "client_id": "879299964975-qnanauld0f1bomhabs8f8jhbhjvn6ibm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh0oW5zm03nuWauoT-FVMlWRbBpm5QYVI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "879299964975-qnanauld0f1bomhabs8f8jhbhjvn6ibm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
